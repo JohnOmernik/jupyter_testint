@@ -1,0 +1,7 @@
+jupyterhub>=0.5
+IPython
+pandas
+ipywidgets
+
+# Your integration specifics go below here:
+requests
